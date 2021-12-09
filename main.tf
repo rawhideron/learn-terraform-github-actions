@@ -19,7 +19,7 @@ terraform {
     }
   }
 }
-
+# This is a comment to differentiate this file
 
 provider "aws" {
   region = "us-east-1"
